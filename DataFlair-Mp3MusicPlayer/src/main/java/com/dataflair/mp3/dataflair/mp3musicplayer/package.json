@@ -1,0 +1,21 @@
+{
+  "name": "kailash",
+  "version": "1.5.8",
+  "description": "new pakage in vs code for node js",
+  "main": "hello.js",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mysql": "^2.18.1",
+    "nodemailer": "^6.7.2",
+    "nodemon": "^2.0.15",
+    "thin": "^0.3.1",
+    "tslib": "^2.3.1",
+    "upper-case": "^2.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
